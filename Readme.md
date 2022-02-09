@@ -1,1 +1,1 @@
-<h1 align="center">mate</h1>
+<h1 align="center">Mate</h1>
